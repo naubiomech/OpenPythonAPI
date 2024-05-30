@@ -1,9 +1,9 @@
 # OpenPythonAPI
 ## Overview
 
-This program can be ran via any computer/terminal with python 3.12 installed. Libraries needed can be installed via pip (python's module manager)
-
 Open source API (application programming interface) writen in Python for controlling the NAU Biomechatronics Lab's OpenExo system.
+
+This program can be ran via any computer/terminal with Python 3.12 installed. Required libraries can be installed via pip (python's module manager)
 
 This project uses the MIT License.
 
